@@ -40,3 +40,5 @@
 # you want only to apply to repos in ~/private_src
 [include]
   path = ~/.gitconfig.private
+[user]
+	name = Vineet Pedaballe
