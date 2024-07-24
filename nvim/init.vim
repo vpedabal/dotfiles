@@ -22,6 +22,7 @@ Plug 'rktjmp/highlight-current-n.nvim'
 Plug 'danilamihailov/beacon.nvim'
 Plug 'ibhagwan/fzf-lua'
 Plug 'AckslD/nvim-neoclip.lua'
+Plug 'f-person/git-blame.nvim'
 call plug#end()
 
 lua require('init')

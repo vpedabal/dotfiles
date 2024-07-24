@@ -49,3 +49,8 @@ git clone https://github.com/bigH/git-fuzzy.git ~/bin/git-fuzzy
 sudo mkdir /usr/local/opt
 sudo chown -R $USER /usr/local/opt
 git clone https://github.com/junegunn/fzf.git /usr/local/opt/fzf
+
+# Install Cargos for Rust
+curl https://sh.rustup.rs -sSf | sh
+
+echo "Install font from here: https://github.com/ryanoasis/nerd-fonts/blob/master/patched-fonts/RobotoMono/Regular/RobotoMonoNerdFontMono-Regular.ttf"
